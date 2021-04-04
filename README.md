@@ -1,2 +1,3 @@
 # k-Means
-k-Means tugas
+# TUGAS K-MEANS
+Tugas yang digunakan adalah menggunakan bahasa R.
